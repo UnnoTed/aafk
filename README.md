@@ -1,0 +1,2 @@
+# aafk
+anti-afk
